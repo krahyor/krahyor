@@ -9,8 +9,7 @@
   
 
 <p><image align="left"  alt="coding" width="337" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
-  <p><image align="left"  alt="coding" width="337" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
-<p><image align="center"  alt="coding" width="337" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
+  <p><image align="center"  alt="coding" width="337" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krahyor&show_icons=true&locale=en&layout=compact" alt="krahyor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krahyor&show_icons=true&locale=en" alt="krahyor" /></p>
-<p>&nbsp;<image align="left"  alt="coding" width="360" src="https://camo.githubusercontent.com/6dddf1587135613d980bf04c74cbf308fbea6d25442cb7bbbf100d67e1eaf436/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31612f62622f65392f31616262653962363165616339653837633834356334663265316561313335362e676966"></p>
+<p>&nbsp;<image align="left"  alt="coding" width="300" src="https://camo.githubusercontent.com/6dddf1587135613d980bf04c74cbf308fbea6d25442cb7bbbf100d67e1eaf436/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31612f62622f65392f31616262653962363165616339653837633834356334663265316561313335362e676966"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krahyor&" alt="krahyor" /></p>
 
 
