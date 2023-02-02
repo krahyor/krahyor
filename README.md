@@ -6,7 +6,11 @@
 <image align="center"  alt="coding" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 ![292949937_1475460392866778_8592696746867238179_n](https://user-images.githubusercontent.com/124285253/216399132-bcd3c643-4ca3-40f3-a40e-a71acc01cb36.jpg)
+  
 
+<p><image align="left"  alt="coding" width="337" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
+  <p><image align="left"  alt="coding" width="337" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
+<p><image align="center"  alt="coding" width="337" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
