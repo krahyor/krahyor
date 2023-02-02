@@ -1,5 +1,5 @@
 ### Hi there, I am Kim student in Prince of Songkla univercity👋
-🔭 Hello my Github , I am newbie computer engineering sutdent!!😽 
+🔭 Hello this is my Github , I am newbie computer engineering sutdent!!😽 
 
 💬 สวัสครับนี้คือ Github ของผม,ผมยังเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์มือใหม่😽
 
