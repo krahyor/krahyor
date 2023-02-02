@@ -1,5 +1,8 @@
-### Hi there 👋
-###🔭 Hello my Github , I am newbie computer engineering sutdent!!😽
+### Hi there, I am Kim student in Prince of Songkla univercity👋
+🔭 Hello my Github , I am newbie computer engineering sutdent!!😽 
+
+💬 สวัสครับนี้คือ Github ของผม,ผมยังเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์มือใหม่😽
+
 <!--
 **krahyor/krahyor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
