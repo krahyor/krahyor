@@ -1,7 +1,6 @@
-### Hi there, I am Kim student in Prince of Songkla univercity👋
-🔭 Hello this is my Github , I am newbie computer engineering sutdent!! 😽 
-
-💬 สวัสครับนี้คือ Github ของผม,ผมยังเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์มือใหม่!! 😽
+                                ### Hi there, I am Kim student in Prince of Songkla univercity👋
+                            🔭 Hello this is my Github , I am newbie computer engineering sutdent!! 😽 
+                               💬 สวัสครับนี้คือ Github ของผม,ผมยังเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์มือใหม่!! 😽
 <image align="center"  alt="coding" src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg">
 <image align="center"  alt="coding" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
