@@ -14,7 +14,7 @@
 <image align="center"  alt="coding" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nopphakao panjasutaros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nopphakao panjasutaros" height="30" width="40" /></a>
+<a href="https://fb.com/nopphakao panjasutaros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nopphakao Kim Panjasutaros" height="30" width="40" /></a>
 <a href="https://instagram.com/kukimkub_09.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kukimkub_09.11" height="30" width="40" /></a>
 </p>
 
