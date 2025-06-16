@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/nopphakao panjasutaros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nopphakao Kim Panjasutaros" height="30" width="40" /></a>
-<a href="https://instagram.com/kukimkub_09.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kukimkub_09.11" height="30" width="40" /></a>
+<a href="https://instagram.com/justkim_09.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kukimkub_09.11" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/%e0%b8%99%e0%b8%9e%e0%b9%80%e0%b8%81%e0%b9%89%e0%b8%b2-%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%88%e0%b8%aa%e0%b8%b8%e0%b8%98%e0%b8%b2%e0%b8%a3%e0%b8%aa-81753b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e0%b8%99%e0%b8%9e%e0%b9%80%e0%b8%81%e0%b9%89%e0%b8%b2-%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%88%e0%b8%aa%e0%b8%b8%e0%b8%98%e0%b8%b2%e0%b8%a3%e0%b8%aa-81753b245/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
