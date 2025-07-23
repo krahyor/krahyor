@@ -18,9 +18,13 @@
 <a href="https://instagram.com/justkim_09.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kukimkub_09.11" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/%e0%b8%99%e0%b8%9e%e0%b9%80%e0%b8%81%e0%b9%89%e0%b8%b2-%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%88%e0%b8%aa%e0%b8%b8%e0%b8%98%e0%b8%b2%e0%b8%a3%e0%b8%aa-81753b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e0%b8%99%e0%b8%9e%e0%b9%80%e0%b8%81%e0%b9%89%e0%b8%b2-%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%88%e0%b8%aa%e0%b8%b8%e0%b8%98%e0%b8%b2%e0%b8%a3%e0%b8%aa-81753b245/" height="30" width="40" /></a>
 </p>
 
+<image align="center"  alt="coding" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krahyor" alt="krahyor" /></a> </p>
+
+<image align="center"  alt="coding" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
