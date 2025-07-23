@@ -1,14 +1,11 @@
                                 ### Hi there, I am Kim student in Prince of Songkla univercity👋
                             🔭 Hello this is my Github , I am newbie computer engineering sutdent!! 😽 
                                💬 สวัสครับนี้คือ Github ของผม,ผมยังเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์มือใหม่!! 😽
-<image align="center"  alt="coding" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/f00937685b75a5088e0e3316351b58e8af1fa7b5/github-contribution-grid-snake.svg">
+<image align="center"  alt="coding" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 <image align="center"  alt="coding" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <image align="center"  alt="coding" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-
-
   
-
 <p><image align="left"  alt="coding" width="417" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
   <p><image align="center"  alt="coding" width="417" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
 <image align="center"  alt="coding" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
