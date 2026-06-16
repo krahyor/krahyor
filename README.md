@@ -10,13 +10,6 @@
   <p><image align="center"  alt="coding" width="417" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"></p>
 <image align="center"  alt="coding" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krahyor&theme=gruvbox" alt="krahyor trophies" />
-  </a>
-</p>
-
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/nopphakao panjasutaros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nopphakao Kim Panjasutaros" height="30" width="40" /></a>
